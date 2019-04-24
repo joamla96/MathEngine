@@ -30,7 +30,7 @@ namespace PiCalculator
                 return new BadRequestObjectResult("Invalid decimal parameter");
             }
 
-            
+            throw new NotImplementedException();
         }
     }
 }
