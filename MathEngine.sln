@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathEngine", "MathEngine\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCalculator", "PiCalculator\PiCalculator.csproj", "{D90DEA61-D3DF-4664-8CC6-385F79B5EE81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCalculator_Classic", "PiCalculator_Classic\PiCalculator_Classic.csproj", "{5BC0FE44-0A22-4EE4-AC97-8ED5865D7114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D90DEA61-D3DF-4664-8CC6-385F79B5EE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D90DEA61-D3DF-4664-8CC6-385F79B5EE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D90DEA61-D3DF-4664-8CC6-385F79B5EE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC0FE44-0A22-4EE4-AC97-8ED5865D7114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC0FE44-0A22-4EE4-AC97-8ED5865D7114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC0FE44-0A22-4EE4-AC97-8ED5865D7114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC0FE44-0A22-4EE4-AC97-8ED5865D7114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
