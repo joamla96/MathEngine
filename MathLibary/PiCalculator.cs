@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PiCalculator_Classic
+namespace MathLibary
 {
     public class PiCalculator
     {
